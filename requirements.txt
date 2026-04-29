@@ -1,0 +1,13 @@
+beautifulsoup4
+lxml
+requests
+pandas
+numpy
+scikit-learn
+catboost
+opencv-python
+Pillow
+tqdm
+scikit-image
+matplotlib
+ultralytics
